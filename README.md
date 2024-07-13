@@ -16,7 +16,7 @@ This project involves the analysis and forecasting of Walmart sales data. The pr
 <br><b>Methodology</b><br>
 -Data Collection: Gather historical sales data from Walmart.<br>
 -Data Preprocessing: Clean and prepare the data for analysis.<br>
--Exploratory Data Analysis (EDA): Visualize sales trends, compare store performance, analyze department-wise sales distribution, and identify </t>weekly sales patterns.<br>
+-Exploratory Data Analysis (EDA): Visualize sales trends, compare store performance, analyze department-wise sales distribution, and identify weekly sales patterns.<br>
 -Predictive Modeling: Implement predictive models (e.g., Auto ARIMA or Exponential Smoothing) to forecast future sales.<br>
 -Insights and Recommendations: Derive actionable insights and provide recommendations to optimize business strategies.<br>
 <br><b>Findings</b><br>
