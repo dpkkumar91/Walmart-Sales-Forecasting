@@ -3,11 +3,11 @@
 <b>Project Overview</b><br>
 This project involves the analysis and forecasting of Walmart sales data. The primary goal is to understand the factors influencing sales, identify seasonal patterns, and enhance future sales predictions. By leveraging historical data, this analysis aims to provide actionable insights and recommendations for optimizing inventory management and revenue generation strategies at Walmart.
 
-<br><b>Objective</b><br>
-Analyze historical sales data to uncover trends and patterns.
-Assess the impact of various factors (e.g., holidays, promotions, weather) on sales.
-Develop predictive models to forecast future sales.
-Offer actionable recommendations to improve sales and inventory management.
+<br><b>##Objective</b><br>
+*Analyze historical sales data to uncover trends and patterns.
+*Assess the impact of various factors (e.g., holidays, promotions, weather) on sales.
+*Develop predictive models to forecast future sales.
+*Offer actionable recommendations to improve sales and inventory management.
 <br><b>Scope of Work</b><br>
 Conduct Exploratory Data Analysis (EDA) to visualize and understand sales trends.
 Evaluate the influence of external factors such as holidays, weather, and promotions on sales performance.
